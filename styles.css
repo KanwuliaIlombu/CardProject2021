@@ -1,0 +1,31 @@
+body {
+    background-color: beige;
+}
+
+table {
+    color: saddlebrown;
+    border: 3px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-width: thick;
+}
+
+h1 {
+    font-family: "Roboto";
+    font-size: large;
+    color: saddlebrown;
+    text-align: center;
+}
+
+td {
+    width: 10px;
+    height: 160px;
+    font-size: x-large;
+    font-family: "Roboto Light";
+    text-align: center;
+    background-color: burlywood;
+
+}
